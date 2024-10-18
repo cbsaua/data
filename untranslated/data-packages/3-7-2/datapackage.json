@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Element",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Teenage mothers younger than 15 years (10-14)",
+                "Teenage mothers 15-19 years",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
