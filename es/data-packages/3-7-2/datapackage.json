@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Element",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Teenage mothers younger than 15 years (10-14)",
-                "Teenage mothers 15-19 years",
-                ""
-              ]
-            },
-            "title": "Element"
           },
           {
             "name": "Value",
