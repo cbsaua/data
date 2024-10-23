@@ -1,7 +1,7 @@
-indicator name: 3.7.2 Adolescent birth rate (aged 10 14 years; aged 15 19 years) per 1,000 women in that age group
-indicator number: 3.7.2
-computation units: per 1000
+indicator_name: 3.7.2 Adolescent birth rate (aged 10 14 years; aged 15 19 years) per 1,000 women in that age group
+indicator_number: 3.7.2
+computation_units: per 1000
+source_active_1: source link should be here
+source_organisation_1: organisation of the source
+source_url_1: the link on the website
 reporting_status: complete
-target name: 3.7 By 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes
-indicator definition: 3.7.2 Adolescent birth rate (aged 10 14 years; aged 15 19 years) per 1,000 women in that age group
-graph type: line
