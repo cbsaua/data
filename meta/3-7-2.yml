@@ -54,7 +54,7 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 sources:
-  - organisation: Central Bureau of Statistics Aruba and Population Registry Office
+    organisation: Central Bureau of Statistics Aruba and Population Registry Office
     periodicity: Yearly
     earliest_available: '2015 '
     geographical_coverage: Aruba
