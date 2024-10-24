@@ -69,5 +69,5 @@ sources:
     logo: ''
 standalone: false
 tags: []
-x_axis_label: ''
+x_axis_label: 'Year'
 
