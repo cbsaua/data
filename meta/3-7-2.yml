@@ -117,20 +117,10 @@ publications: []
 related_indicators: []
 reporting_status: complete
 sort: ''
-sources:
-  - organisation: 'Central Bureau of Statistics Aruba and Population Registry Office'
-    periodicity: 'Yearly'
-    earliest_available: '2015'
-    geographical_coverage: 'Aruba'
-    url: >-
-      https://cbs.aw/wp/index.php/2021/07/02/live-births-deaths-birth-rate-and-death-rate/
-    url_text: 'Live, births, deaths rates in Aruba (on www.cbs.aw)'
-    release_date: 2 July 2022
-    next_release: ''
-    statistical_classification: ''
-    contact: 'Central Bureau of Statitics Aruba'
-    other_info: ''
-    logo: ''
+source_1:
+    - source_active_1: true
+      source_organisation_1: 'Central Bureau of Statistics nieuwe config style'
+      source_periodicity_1: 'Yearly'
 standalone: false
 tags: []
 x_axis_label: ''
