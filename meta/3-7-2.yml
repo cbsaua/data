@@ -88,7 +88,7 @@ embedded_feature_url: 'embedded_feature_url'
 expected_disaggregations:
   - AgeCategories
 footer_fields: [footer_fields]
-graph_annotations: ['graph_annotations']
+graph_annotations: []
 graph_limits: []
 graph_series_breaks: []
 graph_stacked_disaggregation: ''
