@@ -117,10 +117,13 @@ publications: []
 related_indicators: []
 reporting_status: complete
 sort: ''
-source_1:
+sources:
     - source_active_1: true
       source_organisation_1: 'Central Bureau of Statistics nieuwe config style'
       source_periodicity_1: 'Yearly'
+    - source_active_2: true
+      source_organisation_2: 'Central Bureau of Statistics nieuwe config style'
+      source_periodicity_2: 'Yearly'      
 standalone: false
 tags: []
 x_axis_label: ''
