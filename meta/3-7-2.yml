@@ -108,7 +108,7 @@ indicator_tabs:
 national_geographical_coverage: 'national_geographical_coverage'
 page_content: 'page_content'
 permalink: ''
-placeholder: 'placeholder'
+placeholder: ''
 precision: []
 progress_status: target_achieved
 proxy: ''
