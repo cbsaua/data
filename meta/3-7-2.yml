@@ -118,14 +118,20 @@ related_indicators: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: 'Central Bureau of Statistics nieuwe config style'
-source_periodicity_1: 'Yearly'
-source_active_2: true
-source_organisation_2: 'Central Bureau of Statistics nieuwe config style'
-source_periodicity_2: 'Yearly'      
-source_active_3: true
-source_organisation_1: 'Central Bureau of Statistics nieuwe config style3'
-source_periodicity_1: 'Yearly3'
+source_organisation_1: 'Central Bureau of Statistics Aruba'
+source_periodicity_1: 'Quarterly'
+source_earliest_available_1: '1971'
+source_geographical_coverage_1:'Aruba'
+source_url_1: >-
+	https://www.cbs.aw
+source_url_text_1: Website of CBS Aruba
+source_release_date_1: 28 okt 2024
+source_next_release_1: Jun 2025
+source_statistical_classification_1:
+source_contact_1:
+source_other_info_1:
+source_logo_1: >-
+	https://cbs.aw/wp/wp-content/uploads/2024/04/LaborForceSurveyResults2023-002.png
 standalone: false
 tags: []
 x_axis_label: ''
