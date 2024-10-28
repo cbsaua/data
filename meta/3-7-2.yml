@@ -123,7 +123,7 @@ source_periodicity_1: 'Quarterly'
 source_earliest_available_1: '1971'
 source_geographical_coverage_1: 'Aruba'
 source_url_1: >-
-	https://www.cbs.aw
+  https://www.cbs.aw
 source_url_text_1: Website of CBS Aruba
 source_release_date_1: 28 okt 2024
 source_next_release_1: Jun 2025
@@ -131,7 +131,7 @@ source_statistical_classification_1:
 source_contact_1:
 source_other_info_1:
 source_logo_1: >-
-	https://cbs.aw/wp/wp-content/uploads/2024/04/LaborForceSurveyResults2023-002.png
+  https://cbs.aw/wp/wp-content/uploads/2024/04/LaborForceSurveyResults2023-002.png
 standalone: false
 tags: []
 x_axis_label: ''
