@@ -85,8 +85,7 @@ embedded_feature_html: 'embedded_feature_html'
 embedded_feature_tab_title: 'embedded_feature_tab_title'
 embedded_feature_title: 'embedded_feature_title'
 embedded_feature_url: 'embedded_feature_url'
-expected_disaggregations:
-  - AgeCategories
+expected_disaggregations: [AgeCategories]
 footer_fields: [footer_fields]
 graph_annotations: []
 graph_limits: []
