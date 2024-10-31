@@ -1,0 +1,110 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.3.1: Proportion of women aged 20&#x2013;24 years who were
+  married or in a union before age 15 and before age 18</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.3: Eliminate all harmful practices, such as child, early and
+  forced marriage and female genital mutilation</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>United Nations Children&apos;s Fund (UNICEF)</p>
+SDG_RELATED_INDICATORS__GLOBAL: <p>Not applicable</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: '5'
+SDG_TARGET: '5.3.1'
+SDG_INDICATOR: >-
+  'Indicator 5.3.1: Proportion of women aged 20&#x2013;24 years who were
+  married or in a union before age 15 and before age 18'
+SDG_SERIES_DESCR: 'Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18'
+META_LAST_UPDATE: '2024-10-31'
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: 'Central Bureau of Statistics Aruba'
+CONTACT_NAME: 'Jair Tromp'
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: '+297 5247427'
+CONTACT_MAIL: 'L.G. Smith Boulevard 160, Oranjestad, Aruba'
+CONTACT_EMAIL: 'sdg@cbs.aw'
+IND_DEF_CON_CLASS: 'As defined by United Nations'
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'percentage'
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: 'Administratieve data and Census'
+SOURCE_TYPE: 'CBS and Populaton Registration Office'
+COLL_METHOD: ''
+FREQ_COLL: 'Annual'
+REL_CAL_POLICY: ''
+DATA_SOURCE: 'CBS and BBSB'
+COMPILING_ORG: 'Central Bureau of Statistics Aruba'
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: 'Central Bureau of Statistics'
+DATA_VALIDATION: 'Manual and Macros'
+DOC_METHOD: ''
+QUALITY_MGMNT: 'CBS'
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: 'Conform UN definition'
+OTHER_DOC: ''
+national_data_updated_date: '2024-10-31'
+national_metadata_updated_date: '2024-10-31'
+composite_breakdown_label: ''
+computation_units: 'percentage'
+copyright: 'Central Bureau of Statistics Aruba'
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: 'no target value is set for these series globally. (Data for 2015, 2016, 2017 not available)'
+data_show_map: true
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+footer_fields: []
+graph_annotations: []
+graph_limits: []
+graph_series_breaks: []
+graph_stacked_disaggregation: ''
+graph_target_lines: []
+graph_title: global_indicators.5-3-1-title
+graph_titles: []
+graph_type: line
+indicator_available: ''
+indicator_name: global_indicators.5-3-1-title
+indicator_number: 5.3.1
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
+national_geographical_coverage: ''
+page_content: ''
+permalink: ''
+precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
+reporting_status: complete
+sort: ''
+source_organisation_1: 'true'
+source_periodicity_1: 'Annual'
+source_earliest_available_1: '2018'
+source_geographical_coverage_1: 'Aruba'
+source_url_1: >-
+  https://cbs.aw/wp/index.php/2021/07/02/marriages-and-divorces/
+source_url_text_1: 'https://cbs.aw/wp/index.php/2021/07/02/marriages-and-divorces/'
+source_release_date_1: '31 okt 2024'
+source_next_release_1: '2025'
+source_statistical_classification_1: ''
+source_contact_1: 'sdg@cbs.aw'
+source_other_info_1: 'cbs@setarnet.aw'
+un_designated_tier: ''
