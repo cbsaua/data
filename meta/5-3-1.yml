@@ -95,7 +95,8 @@ publications: []
 related_indicators: []
 reporting_status: complete
 sort: ''
-source_organisation_1: 'true'
+source_active_1: true
+source_organisation_1: 'Central Bureau of Statistics Aruba'
 source_periodicity_1: 'Annual'
 source_earliest_available_1: '2018'
 source_geographical_coverage_1: 'Aruba'
