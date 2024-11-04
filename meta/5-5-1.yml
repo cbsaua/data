@@ -15,7 +15,7 @@ SDG_RELATED_INDICATORS__GLOBAL: >-
 SDG_INDICATOR_INFO: ''
 SDG_GOAL: '5'
 SDG_TARGET: '5.5.1'
-SDG_INDICATOR: '>-
+SDG_INDICATOR: >-
   Indicator 5.5.1: Proportion of seats held by women in (a) national parliaments 
   and (b) local governments
 SDG_SERIES_DESCR: ''
