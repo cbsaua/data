@@ -1,4 +1,4 @@
-﻿SDG_INDICATOR__GLOBAL: >-
+be﻿SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 5.5.1: Proportion of seats held by women in (a) national
   parliaments and (b) local governments</p>
 SDG_TARGET__GLOBAL: >-
@@ -33,7 +33,7 @@ IND_DEF_CON_CLASS: 'As defined by United Nations'
 STAT_CONC_DEF: ''
 UNIT_MEASURE: 'percentage'
 CLASS_SYSTEM: ''
-SRC_TYPE_COLL_METHOD: 'Administratieve data and Census' 
+SRC_TYPE_COLL_METHOD: 'Administratieve data received from Parlement of Aruba' 
 SOURCE_TYPE: 'Parlement of Aruba'
 COLL_METHOD: ''
 FREQ_COLL: 'Every year'
