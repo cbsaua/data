@@ -5,3 +5,5 @@ Metadata files are uploaded and updated in this folder. These files should conta
 By default the data input type is YML.
 
 Alternatively to see what other metadata types are accepted and guidance on how to configure the metadata input type, see the [inputs section of the Data configuration guidance](https://open-sdg.readthedocs.io/en/latest/data-configuration/#inputs)
+
+# uploaded 9.2.2
