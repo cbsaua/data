@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "InternetUsage",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Individuals NOT using the internet",
+                "Individuals using the internet",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
