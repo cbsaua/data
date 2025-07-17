@@ -1,5 +1,7 @@
-SDG_INDICATOR__GLOBAL: <p>Indicator 3.3.1: Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations </p>
-SDG_TARGET__GLOBAL:  <p>Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases</p>
+SDG_INDICATOR__GLOBAL: >- 
+  '<p>Indicator 3.3.1: Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations </p>'
+SDG_TARGET__GLOBAL: >- 
+  '<p>Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other    communicable diseases</p>'
 META_LAST_UPDATE__GLOBAL: '2025-03-28'
 SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>World Health Organization (WHO). Department of Sexual and Reproductive  Health and Research.</p>
 SDG_RELATED_INDICATORS__GLOBAL: '<p>3.1.2: Proportion of births attended by skilled health personnel</p>'
@@ -21,7 +23,7 @@ CONTACT_MAIL: 'L.G. Smith Boulevard 160, Oranjestad, Aruba'
 CONTACT_EMAIL: sdg@cbs.aw
 IND_DEF_CON_CLASS: UN
 STAT_CONC_DEF: ''
-UNIT_MEASURE: 'percentage'
+UNIT_MEASURE: 'per 1000'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: Administratieve data and Census
 SOURCE_TYPE: CBS and Populaton Registration Office
