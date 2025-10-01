@@ -35,7 +35,7 @@ CONTACT_MAIL: 'L.G. Smith Boulevard 160, Oranjestad, Aruba'
 CONTACT_EMAIL: sdg@cbs.aw
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: ''
-UNIT_MEASURE: percentage
+UNIT_MEASURE: per capita
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: 'Mid Year Population count used '
 SOURCE_TYPE: Central Bureau Of Statistics Aruba
@@ -72,7 +72,7 @@ source_contact_1: ''
 source_other_info_1: ''
 un_designated_tier: TIER 1
 composite_breakdown_label: ''
-computation_units: percentage
+computation_units: per capita
 copyright: Central Bureau of Statistics Aruba
 data_footnote: ''
 data_non_statistical: false
