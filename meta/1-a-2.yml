@@ -1,4 +1,4 @@
-﻿SDG_INDICATOR__GLOBAL: >-
+SDG_INDICATOR__GLOBAL: >-
   <p>Indicator 1.a.2: Proportion of total government spending on essential
   services (education, health and social protection)</p>
 SDG_TARGET__GLOBAL: >-
@@ -7,7 +7,7 @@ SDG_TARGET__GLOBAL: >-
   provide adequate and predictable means for developing countries, in particular
   least developed countries, to implement programmes and policies to end poverty
   in all its dimensions</p>
-META_LAST_UPDATE__GLOBAL: '30 April 2026'
+META_LAST_UPDATE__GLOBAL: '2024-06-28'
 SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>UNESCO Institute for Statistics (UNESCO-UIS)</p>
 SDG_RELATED_INDICATORS__GLOBAL: '<p>4.5.3, 4.5.4, 4.5.5, 4.5.6, 4.b.1</p>'
 SDG_INDICATOR_INFO: ''
@@ -15,14 +15,14 @@ SDG_GOAL: '3'
 SDG_TARGET: ''
 SDG_INDICATOR: 1.a.2
 SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: '2026-05-06'
+META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
 CONTACT_ORGANISATION: Central Bureau of Statistics
 CONTACT_NAME: Jair Tromp
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
-CONTACT_PHONE: ' +297 5246427'
+CONTACT_PHONE: ' +297 5247427'
 CONTACT_MAIL: sdg@cbs.aw
 CONTACT_EMAIL: sdg@cbs.aw
 IND_DEF_CON_CLASS: United Nations
@@ -49,15 +49,15 @@ QUALITY_ASSMNT: Central Bureau of Statistics
 COVERAGE: On request
 COMPARABILITY: ''
 OTHER_DOC: ''
-national_data_updated_date: '2026-05-06'
-national_metadata_updated_date: '2026-05-06'
+national_data_updated_date: '2026-05-12'
+national_metadata_updated_date: '2026-05-12'
 source_organisation_1: ''
 source_periodicity_1: Annual
 source_earliest_available_1: '2015'
 source_geographical_coverage_1: Aruba
 source_url_1: ''
 source_url_text_1: ''
-source_release_date_1: 17 sept 2025
+source_release_date_1: '2026-05-12'
 source_next_release_1: ''
 source_statistical_classification_1: ''
 source_contact_1: ''
