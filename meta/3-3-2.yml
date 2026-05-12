@@ -3,7 +3,7 @@ SDG_TARGET__GLOBAL: >-
   <p>Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and
   neglected tropical diseases and combat hepatitis, water-borne diseases and
   other communicable diseases</p>
-META_LAST_UPDATE__GLOBAL: '2025-03-28'
+META_LAST_UPDATE__GLOBAL: '30 April 2026'
 SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>World Health Organization (WHO)</p>
 SDG_RELATED_INDICATORS__GLOBAL: >-
   <p>Indicators associated with tuberculosis incidence: numbers: 1.1.1, 1.3.1,
@@ -14,7 +14,7 @@ SDG_GOAL: '3'
 SDG_TARGET: '3.3'
 SDG_INDICATOR: 3.3.2
 SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: 18 sept 2025
+META_LAST_UPDATE: 12 May 2026
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
 CONTACT_ORGANISATION: Central Bureau of Statistics Aruba
@@ -48,15 +48,15 @@ QUALITY_ASSMNT: Central Bureau of Statistics Aruba
 COVERAGE: Aruba
 COMPARABILITY: ''
 OTHER_DOC: ''
-national_data_updated_date: '2023'
-national_metadata_updated_date: 18 sept 2025
+national_data_updated_date: '12 May 2026'
+national_metadata_updated_date: '12 May 2026'
 source_organisation_1: Central Bureau of Statistics Aruba
 source_periodicity_1: ''
 source_earliest_available_1: '2015'
 source_geographical_coverage_1: Aruba
-source_url_1: 'https://www.cbs.aw'
+source_url_1: 'https://cbs.aw/wp/index.php/2025/05/08/communicable-diseases-reported-to-the-section-of-contagious-diseases-2/'
 source_url_text_1: ''
-source_release_date_1: 18 Sept 2025
+source_release_date_1: '12 May 2026'
 source_next_release_1: ''
 source_statistical_classification_1: ''
 source_contact_1: ''
