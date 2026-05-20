@@ -4,7 +4,7 @@
 SDG_TARGET__GLOBAL: >-
   <p>Target 8.9: By 2030, devise and implement policies to promote sustainable
   tourism that creates jobs and promotes local culture and products</p>
-META_LAST_UPDATE__GLOBAL: '2024-03-28'
+META_LAST_UPDATE__GLOBAL: '2026-05-20'
 SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>World Tourism Organization (UNWTO) </p>
 SDG_RELATED_INDICATORS__GLOBAL: >-
   <p>Target 14.7: By 2030, increase the economic benefits to small island
@@ -25,7 +25,7 @@ SDG_INDICATOR: >-
   Indicator 8.9.1: Tourism direct GDP as a proportion of total GDP and in
   growth rate
 SDG_SERIES_DESCR: ''
-META_LAST_UPDATE: '2024-11-04'
+META_LAST_UPDATE: '2026-05-20'
 SDG_RELATED_INDICATORS: ''
 CONTACT_ORGANISATION: 'Central Bureau of Statistics Aruba'
 CONTACT_NAME: 'Jair Tromp'
@@ -59,8 +59,8 @@ QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: 'Conform UN definition'
 OTHER_DOC: ''
-national_data_updated_date: '2024-11-04'
-national_metadata_updated_date: '2024-11-04'
+national_data_updated_date: '2026-05-20'
+national_metadata_updated_date: '2026-05-20'
 un_designated_tier: 'Available (TIER II)'
 composite_breakdown_label: ''
 computation_units: 'percentage'
@@ -116,7 +116,7 @@ source_url_1: >-
   https://cbs.aw/wp/index.php/2022/07/05/tourism-satellite-account-aruba/
 source_url_text_1: 'https://cbs.aw/wp/index.php/2022/07/05/tourism-satellite-account-aruba/'
 source_release_date_1: '04 nov 2024'
-source_next_release_1: '2025'
+source_next_release_1: ''
 source_statistical_classification_1: ''
 source_contact_1: 'sdg@cbs.aw'
 source_other_info_1: 'cbs@setarnet.aw'
